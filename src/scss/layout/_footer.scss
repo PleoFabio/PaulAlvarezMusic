@@ -1,0 +1,13 @@
+@use 'base/variables' as v;
+
+.site-footer{
+    background-color: v.$rosa;
+    padding: 1rem;
+    text-align: center;
+
+    p{
+        color: v.$blanco;
+        margin: 0;
+    }
+   
+}
